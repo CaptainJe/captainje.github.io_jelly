@@ -4,23 +4,23 @@
 baseurl:
 url: http://mazhuang.org
 date_format: "ordinal"
-title: 码志
-subtitle: "打码改变人生"
-description: "马壮的个人博客"
-keywords: 码志, Zhuang Ma, mzlogin, mazhuang
+title: CaptainJe on duty
+subtitle: "每天清晨叫醒我的不是闹钟而是梦想"
+description: "杨帆的个人博客"
+keywords: Timo的窝, CaptainJe, 杨帆, yangfan
 favicon: /favicon.ico
 timezone: Asia/Shanghai
 encoding: "utf-8"
-source_code: https://github.com/mzlogin/mzlogin.github.io
+source_code: https://github.com/captianje/captainje.github.io
 side_bar_repo_limit: 5
 
 # ---------------- #
 #      Author      #
 # ---------------- #
-author: Zhuang Ma
-organization: Sogou, Inc.
-organization_url: https://www.sogou.com
-location: Beijing, China
+author: Yang Fan
+organization: HP, Inc.
+organization_url: https://www.hp.com
+location: Shanghai, China
 email: chumpma@gmail.com
 
 # ---------------- #
