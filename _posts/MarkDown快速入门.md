@@ -1,3 +1,4 @@
+---
 layout: post
 title: MarkDown快速入门
 categories: BlogBuild
