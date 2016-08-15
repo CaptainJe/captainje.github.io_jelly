@@ -91,11 +91,11 @@ github_username: Captainje
 #      Comments    #
 # ---------------- #
 # support provider: disqus, duoshuo, changyan
-comments_provider: duoshuo
+comments_provider: disqus
 # !!!重要!!! 请修改下面两个用户名为你自己申请的
 # !!!Important!!! Please modify usernames below to yours
 duoshuo_username: 杨帆
-# disqus_username: mzlogin
+disqus_username: mzlogin
 
 # ---------------- #
 #    Analytics     #
