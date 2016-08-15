@@ -4,8 +4,8 @@
 baseurl:
 url: http://mazhuang.org
 date_format: "ordinal"
-title: CaptainJe on duty
-subtitle: "每天清晨叫醒我的不是闹钟而是梦想"
+title: CaptainJe's Blog
+subtitle: "CaptainJe on duty"
 description: "杨帆的个人博客"
 keywords: Timo的窝, CaptainJe, 杨帆, yangfan
 favicon: /favicon.ico
@@ -21,7 +21,7 @@ author: Yang Fan
 organization: HP, Inc.
 organization_url: https://www.hp.com
 location: Shanghai, China
-email: chumpma@gmail.com
+email: yangfansh@outlook.com
 
 # ---------------- #
 #    Navigation    #
@@ -80,21 +80,21 @@ collections:
 # ---------------- #
 #      Socials     #
 # ---------------- #
-github_username: mzlogin
-douban_username: freedim
-facebook_username: mzlogin
-weibo_username: mzlogin
-zhihu_username: mzlogin
-twitter_username: mzlogin
+github_username: Captainje
+#douban_username: freedim
+#facebook_username: mzlogin
+#weibo_username: mzlogin
+#zhihu_username: mzlogin
+#twitter_username: mzlogin
 
 # ---------------- #
 #      Comments    #
 # ---------------- #
 # support provider: disqus, duoshuo, changyan
-comments_provider: disqus
+comments_provider: duoshuo
 # !!!重要!!! 请修改下面两个用户名为你自己申请的
 # !!!Important!!! Please modify usernames below to yours
-duoshuo_username: mazhuang
+duoshuo_username: 杨帆
 disqus_username: mzlogin
 
 # ---------------- #
@@ -106,6 +106,6 @@ google:
 # ---------------- #
 #      Datas       #
 # ---------------- #
-skill_software_keywords: [Java, C++, Python, Design Patterns]
-skill_mobile_app_keywords: [Android, Reverse Engineering]
-skill_windows_keywords: [Win32 SDK, DuiLib, WTL, COM, WinDbg]
+skill_software_keywords: [C, C++, Embeded system, Hardware design, Firmware devlop, Linux]
+#skill_mobile_app_keywords: [Android, Reverse Engineering]
+#skill_windows_keywords: [Win32 SDK, DuiLib, WTL, COM, WinDbg]
