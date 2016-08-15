@@ -8,10 +8,10 @@ title: CaptainJe's Blog
 subtitle: "CaptainJe on duty"
 description: "杨帆的个人博客"
 keywords: Timo的窝, CaptainJe, 杨帆, yangfan
-favicon: https://avatars2.githubusercontent.com/u/13464469?v=3&s=460
+favicon: /favicon.ico
 timezone: Asia/Shanghai
 encoding: "utf-8"
-source_code: https://github.com/captianje/captainje.github.io
+source_code: https://github.com/CaptainJe/captainje.github.io.git
 side_bar_repo_limit: 5
 
 # ---------------- #
