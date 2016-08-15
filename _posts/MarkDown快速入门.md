@@ -1,7 +1,9 @@
+layout: post
 title: MarkDown快速入门
-date: 2015-09-07 12:13:32
-tags: MarkDown
-categories: 博客维护
+categories: BlogBuild
+comments: true
+description: 快速浏览MarkDown基本语法
+keywords: MarkDown
 ---
 # MarkDown 常用语法快速入门
 最近刚刚用Hexo把Blog安家在Github上，之前没用过MarkDown写东西，稍微看下语法和效果就喜欢上这样写东西的感觉。
