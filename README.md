@@ -16,7 +16,7 @@ This blog was build through:
 * [freenom](www.freenom.com)    
 
 Blog Theme forked from mazhuang: http://mzlogin.github.io    
-Thanks for people and companies who contributed to let us have a totally free blog.    
+Thanks to the people and companies who contributed resources, we can have a totally free blog ^_^
 
 
 
