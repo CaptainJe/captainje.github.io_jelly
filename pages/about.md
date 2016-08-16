@@ -19,7 +19,7 @@ permalink: /about/
 * 2013年本科自动化毕业，在上海工作，2013年初经历了人生难以承受之痛
 * 2015年通过GCT考入复旦大学，在职攻读计算机技术领域工程硕士
     
-我希望自己每天早晨都能充满希望，带着对生活的热爱醒来，就像歌词里的：    
+我希望自己每天早晨都能充满希望，带着对生活的热爱醒来，就像歌词    
 I'm a new soul, I came to this strange world...    
 生活在继续，无论阴雨或放晴，我们每一天都在experiencing...    
 
@@ -33,7 +33,7 @@ I'm a new soul, I came to this strange world...
 ## 联系
 
 * GitHub：[@captainje](https://github.com/captinaje)
-* LinkedIn：[@yangfan](https://www.linkedin.com/in/mazhuang)
+* LinkedIn：[@yangfan](https://www.linkedin.com/in/yangfansh)
 * 博客：[{{ site.title }}]({{ site.url }})
 
 ## Skill Keywords
