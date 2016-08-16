@@ -106,6 +106,6 @@ google:
 # ---------------- #
 #      Datas       #
 # ---------------- #
-skill_software_keywords: [C, C++, Embeded system, Hardware design, Firmware devlop, Linux]
-#skill_mobile_app_keywords: [Android, Reverse Engineering]
-#skill_windows_keywords: [Win32 SDK, DuiLib, WTL, COM, WinDbg]
+skill_software_keywords: [C, C++, Linux]
+skill_mobile_app_keywords: [IOS, Objective-C]
+skill_embeded_keywords: [MCU, Hardware, AltiumDesinger, Firmware, ROTS]
