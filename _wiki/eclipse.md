@@ -15,5 +15,8 @@ keywords: Tools
 * Get log: getTrace_db 15.96.136.151 /local/sandbox/scm/phx/EXE/debuglist Trace_withoutaoao_OK.log
 
 ## DownloadFirmware  
-* ddb: /local/sandbox/scm/phx/exe/gen/homer/linux-x86/gh517-arm/debug->download -n -p 15.33.204.103 homer.bbd
+* ddb: /local/sandbox/scm/phx/exe/gen/homer/linux-x86/gh517-arm/debug->download -n -p 15.33.204.103 homer.bbd  
+
+## Send file to printer
+* hpnpf -x 15.33.204.115 landscape.pcl
 
