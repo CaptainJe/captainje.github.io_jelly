@@ -20,3 +20,6 @@ keywords: Tools
 ## Send file to printer
 * hpnpf -x 15.33.204.115 landscape.pcl
 
+## Compile error solution
+* License error: open phx/tools/linux-x86/gh201314pT2-arm/bin/ghs  Copy url from latest commit and replace the old file.
+
