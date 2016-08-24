@@ -23,3 +23,10 @@ keywords: Tools
 ## Compile error solution
 * License error: open phx/tools/linux-x86/gh201314pT2-arm/bin/ghs  Copy url from latest commit and replace the old file.
 
+## Auto test  
+* VNC Viewer: 15.96.138.61:8
+* Password: bys_010
+* temrc file path: .temconfig/
+* Edit temrc_Yangfan and run tem --config temrc_Yangfan --gui
+* Choose test cases in test/phx_test/config/ews/auto/xxxx.tst
+* Plugout connection in GUI and run the selected test case. Test log will be saved in a tar file and the path will show after finished.
