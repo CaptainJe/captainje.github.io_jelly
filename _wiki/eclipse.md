@@ -30,3 +30,6 @@ keywords: Tools
 * Edit temrc_Yangfan and run tem --config temrc_Yangfan --gui
 * Choose test cases in test/phx_test/config/ews/auto/xxxx.tst
 * Plugout connection in GUI and run the selected test case. Test log will be saved in a tar file and the path will show after finished.
+
+## bbd to rfu
+* download -n -b0 nebula.bbd -o nebula.rfu
