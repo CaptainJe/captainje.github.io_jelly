@@ -5,6 +5,7 @@ categories: Copywriting
 description: 中文文案排版指北（简体中文版）。
 keywords: 中文文案排版指北
 ---
+这篇文章转载自 mzlogin 的博客： < mazhuang.org >
 
 GitHub repository: [mzlogin/chinese-copywriting-guidelines](https://github.com/mzlogin/chinese-copywriting-guidelines)
 
