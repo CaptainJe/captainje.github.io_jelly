@@ -33,3 +33,6 @@ keywords: Tools
 
 ## bbd to rfu
 * download -n -b0 nebula.bbd -o nebula.rfu
+
+## Python script debug
+* tem --testspl ews_security EWS_alllinksSecurityTest
