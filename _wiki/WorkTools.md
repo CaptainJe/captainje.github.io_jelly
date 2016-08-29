@@ -36,3 +36,14 @@ keywords: Tools
 
 ## Python script debug
 * tem --testspl ews_security EWS_alllinksSecurityTest
+
+## Repo,git,Gerrit
+* A working Repo flow:
+```
+1. mkdir CR63440
+2. repo init -u git.boi.rd.hpicorp.net:phx-manifests -b phx -m release/nebula1.0.xml
+3. repo sync
+4. repo start nebula1.0 --all
+5. git cherry-pick xxxxx
+6. post-review
+```
