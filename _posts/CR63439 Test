@@ -1,3 +1,6 @@
-| 网咯 | 安装方式 | 端口 | 原始IP | 修改IP | 修改后是否Offline |
-|:-----|:---------|:-----|:-------|:-------|:------------------|
-| Public | Settings | 15.96.141.186 | 15.96.141.189 | 没有offline正常打印 |
+| 网咯 | 安装方式 | 端口 | 修改后是否Offline |
+|:-----|:---------|:-----|:------------------|
+| Public | Settings | WSD | 没有offline正常打印 |
+| Public | Full Version SW | WSD | offline 无法打印 |
+| Public | Control Panel - TCP/IP | TCP/IP | offline 无法打印 |
+| Public | Control Panel - WSD | | |
