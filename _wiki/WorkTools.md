@@ -19,6 +19,7 @@ keywords: Tools
 * ddb: /local/sandbox/scm/phx/exe/gen/homer/linux-x86/gh517-arm/debug->download -n -p 15.33.204.103 homer.bbd  
 * cat phx.1.rfu > /dev/usb/lp0
 * hpnpf -x 15.96.146.53 phx.1.rfu
+* Homer can't be reprogarmmed by download and hpnpf command, because it's rom version, need reprogram using special version first.
 
 ## Send file to printer
 * hpnpf -x 15.33.204.115 landscape.pcl
