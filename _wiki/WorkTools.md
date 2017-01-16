@@ -50,4 +50,8 @@ keywords: Tools
 4. repo start nebula1.0 --all
 5. git cherry-pick xxxxx
 6. post-review
-```
+```    
+## License compile fail    
+ gvim scm/phx/tools/linux-x86/nowcompiler/ghs
+ gvim scm/phx/tools/linux-x86/newestcompiler/ghs
+ copy newer to now.
